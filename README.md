@@ -25,8 +25,7 @@ The company wants to know:
 - How well those variables describe the price of a house
 
  * #### Scope of the Case study : 
-   You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
-   Further, the model will be a good way for management to understand the demand dynamics of a new market.
+   You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,13 +36,9 @@ The company wants to know:
   - Step 4: Model Evaluation
 ## Conclusions
 
- - Key attributes which which affecting the bike bookings are:
+ - Key attributes which which affecting the House Pricing are:
  
-    - Temperature
-    - Year
-    - Seasons
-    - Holiday
-     - Detailed analysis and predictor variabled mentioned in the jupyter notebook
+
      
  - Detailed conclusion mentioned in the Notebook file
   
