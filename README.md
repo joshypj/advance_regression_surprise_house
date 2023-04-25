@@ -37,6 +37,26 @@ The company wants to know:
 ## Conclusions
 
  - Key attributes which which affecting the House Pricing are:
+ - #### Business Objectives
+- Which variables are significant in predicting the price of a house
+- How well those variables describe the price of a house
+
+#### The variables influencing the Price of the House
+- OverallQual : Houses with Rating 'Excellent' and 'Good' Rating for the  material and finish
+- GrLivArea: Houses with higher Above grade (ground) living area square feet
+- Neighborhood: House with Physical locations within Ames city limits of 'Somerset' and 'Crawford'
+- Functional: Houses with 'Typical Functionality' Home functionality
+- Condition1: Houses with 'Normal' Proximity to various conditions or more than one varius conditions.
+- MSZoning: Identifies the general zoning classification of the sale.
+- TotalBsmtSF: Houses with higher Total square feet of basement area
+- OverallCond: Houses with Rating of 'Excellent' Rating for their overall condition
+- SaleCondition: Condition of sale
+- MSZoning : Houses in 'FV' Floating Village Residential zone.
+#### Insight from Regularization
+- Both lasso and ridge doign a good job in addressing the regularization
+
+
+    
  
 
      
